@@ -1,0 +1,6 @@
+[book]
+authors = ["Alen Šiljak"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ledger Cookbook"
