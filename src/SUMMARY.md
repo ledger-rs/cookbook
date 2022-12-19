@@ -4,9 +4,12 @@
 
 # Basics
 
-- [Commodities]()
-- [Accounts]()
+- [Declarations]()
+  - [Commodities]()
+  - [Accounts]()
 - [Basic Transaction]()
+- [Currencies]()
+  - [Trading Accounts]()
 
 # Investments
 
