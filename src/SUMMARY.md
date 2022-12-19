@@ -2,10 +2,16 @@
 
 [Introduction]()
 
-- [Chapter 1](./chapter_1.md)
+# Basics
+
+- [Commodities]()
+- [Accounts]()
+- [Basic Transaction]()
 
 # Investments
 
+- [Buy Stocks]()
+- [Sell Stocks]()
 - [Capital Gains]()
 - [Stock Split]()
 
