@@ -16,9 +16,9 @@ The syntax for this case is as follows:
    Assets:Investments:Broker:Cash      -1000.00 USD 
 
 2019-04-01 * Return of capital
-   Assets:Investments:Broker:Cash        500.00 USD
-   Assets:Investments:Broker:Shares:IPE     100 IPE { 5.00 USD} [2000-01-01] @ 5.00 USD
    Assets:Investments:Broker:Shares:IPE    -100 IPE {10.00 USD} [2000-01-01] @ 5.00 USD
+   Assets:Investments:Broker:Shares:IPE     100 IPE { 5.00 USD} [2000-01-01] @ 5.00 USD
+   Assets:Investments:Broker:Cash        500.00 USD
 ```
 
 ## Explanation
