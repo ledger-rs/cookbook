@@ -15,6 +15,7 @@
 
 - [Buy Stocks]()
 - [Sell Stocks]()
+- [Lots](lots.md)
 - [Capital Gains]()
 - [Return of Capital](return-of-capital.md)
 - [Stock Split]()
