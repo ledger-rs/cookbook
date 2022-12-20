@@ -27,6 +27,8 @@ The first transaction is the original purchase of a security. It is used here fo
 
 In the first transaction we are using the full Lot syntax, explicitly specifying the date and the price although this is normally not necessary. The dates (`[2000-01-01]`) are inferred from the transaction date and the price from the price syntax (`@ 10.00 USD`). Here we are illustrating the example only.
 
+The first transaction buys 100 units of IPE in the value of $1000.
+
 The second transaction marks the Return of Capital event:
 
 - 500 USD is returned to the investor
@@ -36,7 +38,7 @@ The second transaction marks the Return of Capital event:
 This results in
 
 - $500 returned to the investor
-- 100 units of IPE with the price of $5 in the investment account
+- the remaining 100 units of IPE with the price of $5 have $500 total value
 
 ## References
 
