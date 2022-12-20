@@ -1,17 +1,18 @@
 # ledger-cookbook
 The book of Ledger recipes
 
-This is (intended to be) a collection of recipes in Ledger syntax which demonstrate the functionality available, common scenarios, how to set up certain accounting infrastructure, and the like.
+This is a growing collection of recipes in Ledger syntax which demonstrate the functionality available, common scenarios, how to set up certain accounting infrastructure, and the like.
 
-The output is (going to be) the documentation published as a web site.
+The output is the documentation published as a web site.
 
 ## Development
 
-Install/download mdBook. Run
+Install/download mdBook. 
+
+In the project root run:
 ```
 mdBook serve --open
 ```
-in the project root.
 
 To produce the final output, run
 ```
