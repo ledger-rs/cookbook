@@ -14,7 +14,7 @@ In case you get errors in transactions with balance assertions, the first comman
 ledger print --raw Checking > temp.ledger
 ```
 
-Then run the second report on this file.
+Then comment-out the balance assertions and run the second report on this file.
 
 ```
 ledger -f temp.ledger --permissive reg Liabilities:Something
