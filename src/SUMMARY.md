@@ -11,6 +11,10 @@
 - [Currencies]()
   - [Trading Accounts]()
 
+# Transaction Reports
+
+- [Transactions](transactions-reports.md)
+
 # Investments
 
 - [Buy Stocks]()
