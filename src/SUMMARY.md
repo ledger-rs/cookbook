@@ -25,6 +25,10 @@
 - [Stock Split]()
   - [Reverse Stock Split]()
 
+# Additional Resources
+
+- [Other Resources](other-resources.md)
+
 ---
 
 [Credits]()
