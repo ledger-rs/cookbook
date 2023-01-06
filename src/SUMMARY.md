@@ -11,8 +11,10 @@
 - [Currencies]()
   - [Trading Accounts]()
 
-# Transaction Reports
+# Reports
 
+- [Register](register-reports.md)
+  - [Full Running Total](reg-full-running-total.md)
 - [Transactions](transactions-reports.md)
 
 # Investments
