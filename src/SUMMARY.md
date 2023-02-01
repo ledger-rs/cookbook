@@ -20,7 +20,7 @@
 
 - [Transfers](search-transfers.md)
 - [Search Comments](search-comments.md)
-- [Search posting comments](search-posting-comments.md)
+- [Search Posting Comments](search-posting-comments.md)
 
 # Investments
 
