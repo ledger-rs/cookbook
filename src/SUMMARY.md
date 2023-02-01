@@ -15,7 +15,12 @@
 
 - [Register](register-reports.md)
   - [Full Running Total](reg-full-running-total.md)
-- [Transactions](transactions-reports.md)
+
+# Search
+
+- [Transfers](search-transfers.md)
+- [Search Comments](search-comments.md)
+- [Search posting comments](search-posting-comments.md)
 
 # Investments
 
