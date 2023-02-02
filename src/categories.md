@@ -8,14 +8,14 @@ Quote from the document:
 international reference classification of household expenditure. The objective of
 COICOP is to provide a framework of homogeneous categories of goods and services,
 which are considered a function or purpose of household consumption expenditure.
-
+>
 > COICOP is an integral part of the System of National Accounts (SNA), but it is also used
 in several other statistical areas, such as: household expenditure statistics based on
 household budget surveys and the analysis of living standards; consumer price indi-
 ces; international comparisons of gross domestic product (GDP) and its component
 expenditures through purchasing power parities; and statistics relating to culture,
 sports, food, health, and tourism.
-
+>
 > The idea of classifying household consumption expenditure at the international level
 dates back to the year 1923 and resulted three years later into the first, still very
 broad classification of household expenditure elaborated by the International Confer-
