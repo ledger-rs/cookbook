@@ -7,6 +7,7 @@
 - [Declarations]()
   - [Commodities]()
   - [Accounts]()
+    - [Categories](categories.md)
 - [Basic Transaction]()
 - [Currencies]()
   - [Trading Accounts]()
@@ -15,6 +16,7 @@
 
 - [Register](register-reports.md)
   - [Full Running Total](reg-full-running-total.md)
+- [Print](print-reports.md)
 
 # Search
 
