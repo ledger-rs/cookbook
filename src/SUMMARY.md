@@ -32,7 +32,7 @@
 - [Capital Gains]()
 - [Return of Capital](return-of-capital.md)
 - [Stock Split]()
-  - [Reverse Stock Split]()
+  - [Reverse Stock Split](reverse-stock-split.md)
 
 # Additional Resources
 
