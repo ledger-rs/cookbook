@@ -1,20 +1,10 @@
 # Lots
 
-## Sorting by Date
+Basic Ledger's documentation on the use of Lots is in the [Buying and Selling Stock](https://ledger-cli.org/doc/ledger3.html#Buying-and-Selling-Stock) section of the documentation.
 
-To sort the lots by date, the following command can be used on Linux:
+Lots are used for the calculation of Capital Gain/Loss as they record the date and price of any lot of owned commodities. Usually the main reason for this is [Tax Lot Accounting](https://www.investopedia.com/terms/t/taxlotaccounting.asp), or the governments' requirement to report Capital Gain/Loss and as it affects taxation.
 
-```
-ledger b --lots ass and vas_ax$ --no-total --flat | sort -t ' ' -k5
+Recipes:
 
-ledger -f file.dat bal account --lots | sort -t ' ' -k5
-```
-
-The expression below was created for this purpose but still has issues. Keeping it here for reference and a reminder.
-
-```
-ledger bal --lots "Account" -f myfile.dat \
--S 'lot_date(total) || date' -y "%Y-%m-%d" 
-```
-This will sort on the lot date of the total, or the date if
-no lot date exists.
+- [Basic Use](lots-basic-use.md)
+- [Sorting by Date](lots-sorting-date.md)
