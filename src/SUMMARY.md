@@ -31,7 +31,7 @@
 - [Lots](lots.md)
   - [Basic Use](lots-basic-use.md)
   - [Sorting by Date](lots-sorting-date.md)
-- [Capital Gains]()
+- [Capital Gains](capital-gains.md)
 - [Return of Capital](return-of-capital.md)
 - [Stock Split]()
   - [Reverse Stock Split](reverse-stock-split.md)
