@@ -25,4 +25,4 @@ The lots are specified for the sale transaction:
     Assets:Broker                   $2,480.05
 ```
 
-This transaction will automatically
+This transaction will precisely identify the lot to be sold and calculate the capital gains. For example, if you leave out the Capital Gains posting, the transaction will be reported as invalid by Ledger.
